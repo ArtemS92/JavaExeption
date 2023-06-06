@@ -1,4 +1,4 @@
-package ru.shum;
+package HW3;
 
 /**
  * ParseException - пользовательское исключение, которое наследуется от класса Exception. Оно

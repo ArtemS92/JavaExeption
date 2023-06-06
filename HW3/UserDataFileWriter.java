@@ -1,4 +1,4 @@
-package ru.shum;
+package HW3;
 
 import java.io.IOException;
 

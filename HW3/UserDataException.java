@@ -1,4 +1,4 @@
-package ru.shum;
+package HW3;
 
 /**
  * `UserDataException` - пользовательское исключение, которое наследуется от класса `Exception`. Оно
